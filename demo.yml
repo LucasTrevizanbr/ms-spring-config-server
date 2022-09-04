@@ -1,1 +1,2 @@
-test.config=Valor de configuração padrão
+test:
+  config: Profile padrão
